@@ -1,0 +1,37 @@
+h2 {
+  color: purple;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+h1 {
+  color: orange;
+  font-weight: bold;
+  text-shadow:
+    1px 1px 1px black,
+    2px 2px 1px black;
+  font-size: 40px; 
+}
+
+.fondo {
+  background: linear-gradient(red, 10%, #fef38d);
+}
+
+li.ing {
+  font-style: italic;
+}
+
+p {
+  background-color: #eaeaea;
+  color: black;
+  margin: 10px 50px 20px;
+}
+
+a { 
+  margin: 10px 50px 20px;
+}
+
+
+
+
+
